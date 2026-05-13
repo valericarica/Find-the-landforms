@@ -1,2 +1,3 @@
 # Find-the-landforms
-Joc
+Game
+
